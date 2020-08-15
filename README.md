@@ -1,3 +1,1 @@
-# university-experiments
-
-Üniversite döneminde verilen ödevler.
+# hacettepe-cs-experiments
